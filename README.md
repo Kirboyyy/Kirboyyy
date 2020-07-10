@@ -3,11 +3,12 @@
 </div>
 
 ### Hello World 👋
-
+<!--
 - 🔭 I’m currently working on React Shop
 - 🌱 I’m currently learning React/Typescript/Gatsby/NextJS/Docker
 
 🎼 now ᴘʟᴀʏɪɴɢ: Who asked (Feat: Nobody) ───────────⚪────── ◄◄⠀▐▐⠀►► 𝟸:𝟷𝟾 / 𝟹:𝟻𝟼⠀───○ 🔊
+-->
 <!--
 **MedElBoudali/MedElBoudali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
