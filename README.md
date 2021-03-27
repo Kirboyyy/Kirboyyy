@@ -1,4 +1,4 @@
-# Hi i'm David 👋
+# Hi I'm David 👋
 
 In the last few years I have been able to help shape the change from many monoliths to a modern microservice platform. Thereby I learned to know and love the advantages of microservices. Besides the pure development I was also allowed to define & set up the continuous integration / continuous deployment processes.
 
