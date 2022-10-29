@@ -1,8 +1,5 @@
 # Hi I'm David 👋
 
-In the last few years I have been able to help shape the change from many monoliths to a modern microservice platform. Thereby I learned to know and love the advantages of microservices. Besides the pure development I was also allowed to define & set up the continuous integration / continuous deployment processes.
-
-Apart from a strong backend, I also love the combination with an innovative UI. Only with a suitable UI the client can use the backend to its full potential.
 
 Contact me via [Twitter](https://twitter.com/Kirboyyy), [Instagram](https://www.instagram.com/uukirbyy/), [Telegram](https://t.me/davidcaudill) or [email](mailto:david.caudill@live.de).
 
