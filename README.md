@@ -33,8 +33,7 @@ Favorite guitars
 Favorite guitarists
 - Randy Rhoads († 1982)
 - John Mayer
-- Mark Tremonti
-- John Petrucci
+- Zakk Wylde
 - Stevie Ray Vaughan († 1990)
-- Ritchie Blackmore
+- Nuno Bettencourt
 - Eric Clapton
