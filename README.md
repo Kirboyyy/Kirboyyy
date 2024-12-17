@@ -35,5 +35,6 @@ Favorite guitarists
 - John Mayer
 - Zakk Wylde
 - Stevie Ray Vaughan († 1990)
+- Jimi Hendrix († 1970)
 - Nuno Bettencourt
 - Eric Clapton
