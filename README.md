@@ -26,6 +26,7 @@ Contact me via [Twitter](https://twitter.com/Kirboyyy), [Instagram](https://www.
 ## 🎸 Guitar Stuff
 Favorite guitars
 - PRS Custom 24 Charcoal Burst
+- PRS Silver Sky Polar Blue (Maple)
 - Epiphone Zakk Wylde Les Paul Custom Plus Bullseye 
 - EVH Wolfgang Standard
 
